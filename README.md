@@ -34,12 +34,3 @@ A documentação desta API foi feita no Postman.
 
 
 <br>
-
-## Equipe de Desenvolvimento
-
-- [Jerlysson Miranda](https://www.linkedin.com/in/jerlysson-miranda/) - Product Owner
-- [Kelvin Crepaldi](https://www.linkedin.com/in/kelvincrepaldi/) - Developer
-- [Leonam Rodrigues](https://www.linkedin.com/in/leonam-rodrigues/) - Scrum Master
-- [Paulo Henrique Magno](https://www.linkedin.com/in/paulohenriquemagno/) - Developer
-- [Luan Ferreira](https://www.linkedin.com/in/luanferreira02/) - Tech Lead
-- [Roberto Rocha](https://www.linkedin.com/in/rsrocha/) - Developer# le-coffe-api
